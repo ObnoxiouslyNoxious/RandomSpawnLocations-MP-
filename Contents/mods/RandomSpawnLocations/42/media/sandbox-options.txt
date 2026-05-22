@@ -1,0 +1,139 @@
+VERSION = 1,
+
+option RSL.BalancedResidential
+{
+    type = boolean, default = true,
+    page = RSL_Presets, translation = RSL_BalancedResidential,
+}
+
+option RSL.Brandenburg
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Brandenburg,
+}
+
+option RSL.Dixie
+{
+    type = boolean, default = false,
+    page = RSL_Locations, translation = RSL_Dixie,
+}
+
+option RSL.DoeValleyForest
+{
+    type = boolean, default = false,
+    page = RSL_Locations, translation = RSL_DoeValleyForest,
+}
+
+option RSL.EchoCreek
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_EchoCreek,
+}
+
+option RSL.Ekron
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Ekron,
+}
+
+option RSL.FallasLake
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_FallasLake,
+}
+
+option RSL.HogWallow
+{
+    type = boolean, default = false,
+    page = RSL_Locations, translation = RSL_HogWallow,
+}
+
+option RSL.Irvington
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Irvington,
+}
+
+option RSL.Louisville
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Louisville,
+}
+
+option RSL.MarchRidge
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_MarchRidge,
+}
+
+option RSL.Muldraugh
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Muldraugh,
+}
+
+option RSL.Riverside
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Riverside,
+}
+
+option RSL.Rosewood
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_Rosewood,
+}
+
+option RSL.ValleyStation
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_ValleyStation,
+}
+
+option RSL.WestPoint
+{
+    type = boolean, default = true,
+    page = RSL_Locations, translation = RSL_WestPoint,
+}
+
+option RSL.Residential
+{
+    type = boolean, default = false,
+    page = RSL_SpawnTypes, translation = RSL_Residential,
+}
+
+option RSL.NonResidential
+{
+    type = boolean, default = false,
+    page = RSL_SpawnTypes, translation = RSL_NonResidential,
+}
+
+option RSL.HardcoreSpawns
+{
+    type = boolean, default = false,
+    page = RSL_SpawnTypes, translation = RSL_HardcoreSpawns,
+}
+
+option RSL.IsolatedAreas
+{
+    type = boolean, default = false,
+    page = RSL_SpawnTypes, translation = RSL_IsolatedAreas,
+}
+
+option RSL.AnruisiTown
+{
+    type = boolean, default = false,
+    page = RSL_ModdedMaps, translation = RSL_AnruisiTown,
+}
+
+option RSL.Maplewood
+{
+    type = boolean, default = false,
+    page = RSL_ModdedMaps, translation = RSL_Maplewood,
+}
+
+option RSL.RavenCreek
+{
+    type = boolean, default = false,
+    page = RSL_ModdedMaps, translation = RSL_RavenCreek,
+}

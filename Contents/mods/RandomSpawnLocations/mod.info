@@ -1,0 +1,7 @@
+name=Random Spawn Locations
+id=RandomSpawnLocations
+description=Replaces all Vanilla spawn options with a single Random Spawn choice. Each new character spawns at a randomly selected location drawn from a curated pool of thousands of verified spawn points spread across Knox Country. No two characters are guaranteed to start in the same place. Includes a 'Balanced' preset option to ensure equal distribution of spawn points across each Town.
+poster=poster.png
+author=ObnoxiouslyNoxious
+icon=icon.png
+versionMin=42.0.0
