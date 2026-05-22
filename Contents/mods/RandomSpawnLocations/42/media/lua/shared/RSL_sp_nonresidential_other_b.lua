@@ -1,6 +1,5 @@
 function RSL_SpawnPoints_NonRes_Other_B()
     return {
-        -- Brandenburg
         { worldX= 6, worldY=20, posX=294, posY= 24, town="Brandenburg", type="NonResidential", cat="Civic", cat2="Church", hardcore=false, majorTown=true, balance=false, wilderness=false }, -- Brandenburg Church Holy Redeemer Kitchen ID:2417,
         { worldX= 6, worldY=19, posX=279, posY=187, posZ=1, town="Brandenburg", type="NonResidential", cat="Business", cat2="Shopping", hardcore=false, majorTown=true, balance=false, wilderness=false }, -- Brandenburg Hardware store ID:2418,
         { worldX= 6, worldY=19, posX=281, posY=204, town="Brandenburg", type="NonResidential", cat="Business", cat2="Medical", hardcore=false, majorTown=true, balance=false, wilderness=false }, -- Brandenburg Dentist ID:2419,
