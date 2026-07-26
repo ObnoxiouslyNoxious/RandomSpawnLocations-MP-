@@ -6,6 +6,18 @@ option RSL.BalancedResidential
     page = RSL_Presets, translation = RSL_BalancedResidential,
 }
 
+option RSL.BalancedNonResidential
+{
+    type = boolean, default = false,
+    page = RSL_Presets, translation = RSL_BalancedNonResidential,
+}
+
+option RSL.BalancedWilderness
+{
+    type = boolean, default = false,
+    page = RSL_Presets, translation = RSL_BalancedWilderness,
+}
+
 option RSL.Brandenburg
 {
     type = boolean, default = true,
@@ -118,6 +130,12 @@ option RSL.IsolatedAreas
 {
     type = boolean, default = false,
     page = RSL_SpawnTypes, translation = RSL_IsolatedAreas,
+}
+
+option RSL.Wilderness
+{
+    type = boolean, default = false,
+    page = RSL_SpawnTypes, translation = RSL_Wilderness,
 }
 
 option RSL.AnruisiTown

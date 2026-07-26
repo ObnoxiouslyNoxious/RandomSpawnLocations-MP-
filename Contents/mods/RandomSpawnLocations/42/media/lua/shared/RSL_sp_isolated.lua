@@ -1,0 +1,31 @@
+function RSL_SpawnPoints_Isolated()
+    local points = {
+        { worldX=33, worldY=22, posX=283, posY=165, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=45, worldY=24, posX=132, posY=24, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=32, worldY=29, posX=67, posY=75, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=37, worldY=29, posX=142, posY=254, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=14, worldY=24, posX=47, posY=28, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=38, worldY=30, posX=180, posY=290, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=31, worldY=34, posX=45, posY=96, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=41, worldY=29, posX=173, posY=220, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=28, posX=175, posY=202, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=16, worldY=26, posX=211, posY=196, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=16, worldY=26, posX=211, posY=196, posZ=1, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=16, worldY=26, posX=102, posY=137, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=223, posY=190, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=216, posY=194, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=13, worldY=27, posX=165, posY=52, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=210, posY=47, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=222, posY=47, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=266, posY=47, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=278, posY=47, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=210, posY=19, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=222, posY=19, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=266, posY=19, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=278, posY=19, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=16, worldY=26, posX=211, posY=197, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=15, worldY=26, posX=207, posY=116, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+        { worldX=36, worldY=35, posX=265, posY=142, town="Isolated Areas", type="Residential", cat="Cabin", hardcore=false, majorTown=false, balance=false, },
+    }
+    return points
+end

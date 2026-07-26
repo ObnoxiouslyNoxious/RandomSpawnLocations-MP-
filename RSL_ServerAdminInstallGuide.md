@@ -1,5 +1,5 @@
 # Random Spawn Locations — Server Admin Install Guide
-**[B42] Random Spawn Locations [MP] | Build 42.00+**
+**[B42] Random Spawn Locations [SP/MP] | Build 42.00+**
 
 ---
 
@@ -14,7 +14,6 @@ Clients must also subscribe to the mod — it includes a small UI hook that coll
 ## Requirements
 
 - Project Zomboid **Build 42.0.0** or later - Clients require matching version to Server (Builds prior to B42.15 will have broken Translations in Sandbox Settings)
-- A dedicated or hosted multiplayer server
 - All players (server and clients) subscribed to the mod on Steam Workshop
 
 ---

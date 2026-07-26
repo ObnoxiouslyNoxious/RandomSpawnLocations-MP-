@@ -1,4 +1,35 @@
 function RSL_SpawnPoints_Wilderness()
-    return {
+    local points = {
+        { worldX=15, worldY=43, posX=169, posY=227, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=24, worldY=51, posX=92, posY=23, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=46, worldY=25, posX=40, posY=85, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=18, worldY=25, posX=130, posY=69, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=53, worldY=47, posX=54, posY=245, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=1, worldY=25, posX=288, posY=3, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=0, worldY=52, posX=247, posY=80, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=48, worldY=5, posX=292, posY=205, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=26, worldY=43, posX=223, posY=264, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=9, worldY=25, posX=197, posY=80, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=50, worldY=34, posX=123, posY=153, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=41, worldY=42, posX=296, posY=195, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=true, },
+        { worldX=10, worldY=31, posX=147, posY=78, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=0, worldY=17, posX=215, posY=199, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=0, worldY=45, posX=295, posY=122, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=6, worldY=42, posX=52, posY=270, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=26, worldY=27, posX=286, posY=145, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=29, worldY=34, posX=198, posY=290, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=42, worldY=30, posX=104, posY=187, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=50, worldY=15, posX=273, posY=158, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=37, worldY=25, posX=85, posY=16, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=19, worldY=35, posX=108, posY=221, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=39, worldY=50, posX=8, posY=51, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=9, worldY=38, posX=135, posY=121, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=12, worldY=51, posX=174, posY=253, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=20, worldY=38, posX=287, posY=247, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=19, worldY=29, posX=70, posY=16, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=40, worldY=36, posX=263, posY=36, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=51, worldY=20, posX=264, posY=160, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
+        { worldX=52, worldY=39, posX=249, posY=296, town="Wilderness", type="None", cat="None", hardcore=false, majorTown=false, balance=false, },
     }
+    return points
 end

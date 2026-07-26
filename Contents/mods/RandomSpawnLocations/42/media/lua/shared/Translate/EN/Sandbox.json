@@ -5,7 +5,10 @@
     "Sandbox_RSL_SpawnTypes": "Random Spawn - Types",
 
     "Sandbox_RSL_BalancedResidential": "Balanced (Residential)",
-    "Sandbox_RSL_BalancedResidential_tooltip": "Restricts the spawn pool to a hand picked set of spawn points with equal amounts of spawn locations in or on the outsksirts of each Town (Brandenburg, Echo Creek, Ekron, Fallas Lake, Irvington, Louisville, March Ridge, Muldraugh, Riverside, Rosewood, Valley Station & West Point). This ensures players spawn evenly spread across the Map. Recommended for most Multiplayer servers. Disabling any of the above mentioned Towns in 'Random Spawn - Locations' will remove them from the Balanced Pool. Enabling Towns not listed above will have no effect while Balanced is selected. Enabling any of the 'Random Spawn - Types' will have no effect if Balanced is selected. Unselect Balanced to fully customize your experience, but be aware that some locations and types have much more spawn options than others.",
+    "Sandbox_RSL_BalancedResidential_tooltip": "Restricts the spawn pool to a hand picked set of residential spawn points spread evenly across each town. Recommended for most Multiplayer servers. Disabling towns in 'Random Spawn - Locations' will remove them from the pool. Unselect to fully customise your experience.",
+
+    "Sandbox_RSL_BalancedNonResidential": "Balanced (Non-Residential)",
+    "Sandbox_RSL_BalancedNonResidential_tooltip": "Restricts the spawn pool to a hand picked set of non-residential spawn points spread evenly across each town, including businesses, civic buildings and industrial locations. Can be combined with Balanced (Residential). Disabling towns in 'Random Spawn - Locations' will remove them from the pool.",
 
     "Sandbox_RSL_Brandenburg": "Brandenburg",
     "Sandbox_RSL_Brandenburg_tooltip": "Allow spawns in Brandenburg.",
@@ -46,11 +49,15 @@
     "Sandbox_RSL_RavenCreek_tooltip": "Allow spawns in Raven Creek. Requires the 'Raven Creek B42' Map Mod. Modded Maps are never enabled by default.",
 
     "Sandbox_RSL_Residential": "Residential Spawns",
-    "Sandbox_RSL_Residential_tooltip": "Allow spawning in residential locations such as houses and apartments.",
+    "Sandbox_RSL_Residential_tooltip": "Allow spawning in residential locations such as houses, apartments and trailers.",
     "Sandbox_RSL_NonResidential": "Non-Residential Spawns",
-    "Sandbox_RSL_NonResidential_tooltip": "Allow spawning in non-residential locations such as businesses, warehouses and offices.",
+    "Sandbox_RSL_NonResidential_tooltip": "Allow spawning in non-residential locations such as businesses, warehouses, civic buildings and offices.",
     "Sandbox_RSL_HardcoreSpawns": "Hardcore Spawns",
-    "Sandbox_RSL_HardcoreSpawns_tooltip": "Allow spawning in dangerous or challenging locations. Not recommended for new players.",
+    "Sandbox_RSL_HardcoreSpawns_tooltip": "Allow spawning in dangerous or challenging locations such as police stations, jails and military zones. Not recommended for new players.",
     "Sandbox_RSL_IsolatedAreas": "Isolated Areas",
-    "Sandbox_RSL_IsolatedAreas_tooltip": "Allow spawning in remote and isolated locations such as cabins, camps and rural hideaways. These are far from towns and may have limited resources nearby."
+    "Sandbox_RSL_IsolatedAreas_tooltip": "Allow spawning in remote and isolated locations such as forest cabins, scout camps and rural hideaways. These are far from towns and may have limited resources nearby.",
+    "Sandbox_RSL_Wilderness": "Wilderness",
+    "Sandbox_RSL_Wilderness_tooltip": "Allow spawning in open wilderness areas with no nearby buildings. Players will need to forage and survive with whatever they find. Extreme challenge — not recommended for new players.",
+    "Sandbox_RSL_BalancedWilderness": "Balanced (Wilderness)",
+    "Sandbox_RSL_BalancedWilderness_tooltip": "Restricts Wilderness spawns to a smaller, hand picked set of Wilderness spawn points. Selecting 'Wilderness' as well (or on its own) always includes the full Wilderness pool regardless of this option. Unselect 'Wilderness' and keep only this on to spawn exclusively from the curated set."
 }
